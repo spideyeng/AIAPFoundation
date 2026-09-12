@@ -27,3 +27,6 @@ dist/
 
 # Logs
 *.log
+
+# Data files
+*.csv
